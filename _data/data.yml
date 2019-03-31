@@ -1,0 +1,103 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Devika Narasegowda
+    tagline: Former Assistant Professor, Department of Electronics & Communication
+    avatar: devika.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: devikang@gmail.com
+    phone:
+    website: #do not add http://
+    linkedin: devikang
+    github: devikang
+    gitlab:
+    bitbucket:
+    twitter: ''
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Kannada
+        level: Native
+
+    interests:
+      - item: Dancing
+        link:
+
+      - item: Yoga
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Passionate individual with over 5 years of experience in teaching and mentoring engineering 
+      graduates. Academic experience in subjects like digital communication, computer networks, 
+      operating system and digital electronics. A caring mother, exploring opportunities to work in
+      IT for as a first-timer.
+
+education:
+    - degree: Master of Technology, Digital Communication & Networking
+      university: Visvesvaraya Technological University, India
+      time: 2010 - 2012
+      details: |
+        Found interests in digital communication and computer networking during bachelor studies 
+        and decided to pursue masters in the same field. Focused on related areas such as 
+        protocol engineering, error control coding, linear algebra.
+
+    - degree: Bachelor of Engineering, Electroincs & Communication
+      university: Visvesvaraya Technological University, India
+      time: 2005 - 2009
+      details: |
+        Bachelor's degree in electronics and communication engineering. Studied various subjects
+        under the course. Took special interest in the areas of digital electroincs, 
+        computer networks and digital communication.
+
+experiences:
+    - role: Assistant Professor
+      time: 2012 - 2018
+      company: KS School of Engineering & Management, Bangalore, India
+      details: |
+        Taught various subjects related to electronics and communication engineering such as 
+        digital communication, digital electronics, logic design, and computer communication. 
+        Involved in both theoretical and practical aspects of the subjects. Responsible for 
+        academic processes set by the institute and governing body. Other aspects of the work 
+        involved the following.
+
+          - Helping out graduate students with academic projects.
+          - Organising various technical conferences at the institute.
+          - Member of the organising committee responsible for the cultural festival held annually.
+          - Participating in national level engineering conferences to understand the advancements 
+          in electronics and communication engineering.
+          - Responsible for analysis and retrospecting of student results.
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Digital Communication
+        level: 80%
+
+      - name: Digital Electronics
+        level: 90%
+
+      - name: Analog Electronic Circuits
+        level: 70%
+
+      - name: Computer Networks
+        level: 80%
+
+      - name: C/C++ Programming
+        level: 40%
+
+footer: >
+    Devika Narasegowda
